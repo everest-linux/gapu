@@ -1,8 +1,8 @@
 {
-  "package_name": "example",
-  "package_version": "example",
-  "package_description": "example",
-  "src_tree_size": "example",
-  "exec_size": "example",
-  "license": "example"
+  "package_name": "example-name",
+  "package_version": "example-ver",
+  "package_description": "example-desc",
+  "src_tree_size": "example-src",
+  "exec_size": "example-exe",
+  "license": "example-lic"
 }
